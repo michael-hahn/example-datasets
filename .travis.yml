@@ -7,7 +7,7 @@ before_install:
 
 script:
   - gem install camtool
-  - make verify
+  - make validate
 
 notifications:
   slack: camflow:T3Umf9cAIwKnaxFEkjeZV7RM
