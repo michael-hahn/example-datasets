@@ -1,0 +1,32 @@
+Machine id: 1958431827
+Policy hash: D9C87822B3283448668A3D44B9FADE25A5ECB822CEF3E6A5C4C5ADAFA054633
+Provenance capture:
+- capture enabled;
+- all disabled;
+- provenance has been captured;
+- node compression enabled;
+- edge compression enabled;
+- duplication disabled;
+
+Node filter (4000c80):
+inode_unknown
+directory
+char
+envp
+Derived filter (0):
+Generated filter (0):
+Used filter (0):
+Informed filter (0):
+
+Propagate node filter (0):
+Propagate derived filter (0):
+Propagate generated filter (0):
+Propagate used filter (0):
+Propagate informed filter (0):
+
+IPv4 ingress filter (0).
+IPv4 egress filter (0).
+Security context filter (0).
+Namespace filter (0).
+User filter (0).
+Group filter (0).

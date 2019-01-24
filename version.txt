@@ -1,0 +1,6 @@
+CamFlow v0.5.0
+CamFlow https://github.com/camflow/camflow-dev/commit/808536099f911971bd6ee127ffd4e647d409dbdb
+
+libprovenance v0.4.5
+libprovenance https://github.com/camflow/libprovenance/commit/1d56913bfc67f86ab0fe9a0811617d0beca7a1b9
+

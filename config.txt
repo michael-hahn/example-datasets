@@ -1,0 +1,24 @@
+;Auto-generated configuration
+[provenance]
+machine_id=0
+enabled=true
+all=false
+node_filter=inode_unknown
+node_filter=directory
+node_filter=char
+node_filter=envp
+
+[compression]
+node=true
+edge=true
+duplicate=false
+
+[ipv4-ingress]
+
+[ipv4-egress]
+
+[user]
+
+[group]
+
+[secctx]
