@@ -1,0 +1,13 @@
+language: ruby
+cache: bundler
+dist: trusty
+
+before_install:
+  - sudo apt-get install -y graphviz
+
+script:
+  - gem install camtool
+  - make verify
+
+notifications:
+  slack: camflow:T3Umf9cAIwKnaxFEkjeZV7RM

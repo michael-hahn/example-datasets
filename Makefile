@@ -23,3 +23,6 @@ wget: restart_service
 	rm index.html
 
 all: record_version record_config record_state wget
+
+validate:
+	camtool --validate wget.log
